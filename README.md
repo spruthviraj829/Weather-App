@@ -10,3 +10,6 @@
 Vercel Link:
 
 ## Demo
+
+https://github.com/spruthviraj829/Weather-App/assets/132601576/8dc2fd9f-420b-499a-b607-bd7eff7f858a
+
